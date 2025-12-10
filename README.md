@@ -67,6 +67,19 @@ music-playlist-organizer/
  ┣ types.ts            # TypeScript interfaces and types
  ┗ README.md           # Project documentation
 
+How to Run Locally:
+# Clone repository
+git clone https://github.com/hanifkhalid488/music-playlist-organizer.git
+
+# Navigate to folder
+cd music-playlist-organizer
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
 
 Learning Outcomes
 
