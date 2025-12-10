@@ -6,6 +6,7 @@ This project integrates React with TypeScript for a robust frontend, and impleme
 
 The application allows users to play, manage, and sort their songs intelligently while demonstrating real-world applications of computer science concepts.
 
+
 Key Features:
 
 The project includes a wide range of user-friendly features:
@@ -26,6 +27,7 @@ Search and Sort: Search songs by title or artist and sort efficiently using Merg
 
 Dynamic and Interactive UI: Built with React’s component-based architecture for smooth updates.
 
+
 Technologies Used:
 
 This project leverages modern tools and technologies:
@@ -36,9 +38,8 @@ TypeScript: For strong typing, error reduction, and code maintainability.
 
 Vite: A fast and efficient development build tool.
 
-Data Structures & Algorithms: Core DSA concepts including Doubly Linked List, Stack, Queue, and Merge Sort for efficient data management.
 
-Data Structures & Algorithms Used:
+Data Structures & Algorithms: Core DSA concepts including Doubly Linked List, Stack, Queue, and Merge Sort for efficient data management.
 
 Doubly Linked List: This structure is used to manage the main playlist, allowing efficient forward and backward navigation between songs.
 
@@ -81,7 +82,7 @@ npm install
 npm run dev
 
 
-Learning Outcomes
+Learning Outcomes:
 
 This project demonstrates practical implementation of computer science concepts and development skills:
 
@@ -95,7 +96,7 @@ Algorithm Efficiency: Sorting and playlist management optimized for performance.
 
 Problem-Solving Skills: Designing a complex project end-to-end using both frontend and logic.
 
-Conclusion
+Conclusion:
 
 The Music Playlist Organizer project combines React, TypeScript, and DSA concepts to create an efficient, interactive, and user-friendly music management system.
 It demonstrates how theoretical computer science concepts can be applied in practical real-world scenarios while improving coding, problem-solving, and UI/UX design skills.
