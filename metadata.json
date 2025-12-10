@@ -1,0 +1,4 @@
+{
+  "name": "DSA Music Organizer",
+  "description": "A comprehensive music playlist organizer built with manual Data Structures (Doubly Linked List, Stack, Queue) and Algorithms (Merge Sort). Features offline persistence and a modern UI."
+}
