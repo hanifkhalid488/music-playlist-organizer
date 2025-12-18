@@ -1,51 +1,67 @@
-# 🎵 Music Playlist Organizer
-
-## Project Overview
-
-**Music Playlist Organizer** is a modern web-based application designed to help users efficiently manage and organize their music library.  
-This project integrates **React with TypeScript** for a robust frontend and implements core **Data Structures and Algorithms (DSA)** to optimize performance and provide a seamless user experience.
-
-The application allows users to play, manage, and sort their songs intelligently while demonstrating real-world applications of computer science concepts.
+## 👥 Group Members
+- Hanif Khalid (Registration ID: B24F1000CS150)
+- Samiullah Name (Registration ID:B24F0637CS131 )
+- Abu Bakar (Registration ID:B24F0543CS143 )
 
 
-## Key Features
+# 🎵 Music Playlist Organizer  
+**DSA Final Group Project**
 
-The project includes a wide range of user-friendly features:
 
-- **Add New Songs:** Easily add songs to your playlist.  
-- **Delete Songs:** Remove unwanted songs quickly.  
-- **Play / Pause Music:** Control music playback intuitively.  
-- **Next / Previous Navigation:** Move forward or backward between songs seamlessly.  
-- **Recently Played History:** Tracks your recently played songs using Stack.  
-- **Play Next Queue:** Organize songs to play next using Queue.  
-- **Search and Sort:** Search songs by title or artist and sort efficiently using Merge Sort.  
-- **Dynamic and Interactive UI:** Built with React’s component-based architecture for smooth updates.  
+## 📌 Project Overview
+The **Music Playlist Organizer** is a modern, web-based application designed to efficiently manage and organize a digital music library.  
+This project has been developed as a **Final Group Project for the Data Structures and Algorithms (DSA) course** and demonstrates the practical implementation of core DSA concepts in a real-world application.
 
----
+The application is built using **React with TypeScript** and focuses on performance, usability, and clean software design.  
+It allows users to play, manage, search, and sort songs intelligently while applying fundamental computer science principles.
 
-## Technologies Used
 
-This project leverages modern tools and technologies:
+## 🎯 Objectives of the Project
+- To apply **Data Structures and Algorithms** concepts in a practical scenario  
+- To understand how DSA improves performance and data management  
+- To build an interactive and user-friendly application using modern web technologies  
+- To strengthen problem-solving and teamwork skills through a group project  
 
-- **React.js (Functional Components + Hooks):** For building dynamic, reusable UI components.  
-- **TypeScript:** For strong typing, error reduction, and maintainable code.  
-- **Vite:** A fast and efficient development build tool.  
-- **Data Structures & Algorithms:** Core DSA concepts including Doubly Linked List, Stack, Queue, and Merge Sort for efficient data management.  
 
----
+## ✨ Key Features
+- ➕ **Add New Songs** – Add songs dynamically to the playlist  
+- ❌ **Delete Songs** – Remove songs efficiently  
+- ▶️⏸️ **Play / Pause Music** – User-friendly playback controls  
+- ⏭️⏮️ **Next / Previous Navigation** – Seamless song navigation  
+- 🕒 **Recently Played History** – Implemented using **Stack (LIFO)**  
+- 📥 **Play Next Queue** – Managed using **Queue (FIFO)**  
+- 🔍 **Search Songs** – Search by title or artist  
+- 🔀 **Sort Songs** – Efficient sorting using **Merge Sort**  
+- 🎨 **Dynamic & Interactive UI** – Built with React’s component-based architecture  
 
-## Data Structures & Algorithms Implementation
 
-- **Doubly Linked List:** Manages the main playlist, allowing efficient forward and backward navigation between songs.  
-- **Stack:** Maintains a history of recently played songs using the **LIFO (Last In, First Out)** principle.  
-- **Queue:** Handles the **Play Next** feature using the **FIFO (First In, First Out)** principle.  
-- **Merge Sort:** Efficiently sorts songs by title or artist with **O(n log n)** complexity for reliable sorting.
+## 🛠️ Technologies Used
+- **React.js** (Functional Components & Hooks)  
+- **TypeScript** – For strong typing and maintainable code  
+- **Vite** – Fast and optimized development tool  
+- **Data Structures & Algorithms**:
+  - Doubly Linked List  
+  - Stack  
+  - Queue  
+  - Merge Sort  
 
----
 
-## Project Structure
+## 🧠 Data Structures & Algorithms Implementation
+- **Doubly Linked List:**  
+  Used to manage the main playlist, enabling efficient forward and backward navigation between songs.
 
-```txt
+- **Stack:**  
+  Maintains a history of recently played songs following the **Last In, First Out (LIFO)** principle.
+
+- **Queue:**  
+  Handles the *Play Next* functionality using the **First In, First Out (FIFO)** principle.
+
+- **Merge Sort:**  
+  Used for sorting songs by title or artist with **O(n log n)** time complexity for efficient performance.
+
+
+## 📁 Project Structure
+
 music-playlist-organizer/
  ┣ components/
  ┃ ┣ Model.tsx        # Modal popup component for adding songs
@@ -74,3 +90,19 @@ npm install
 
 # Start development server
 npm run dev
+
+## 🎥 Demo Video
+- Watch the demo video here: [Click to View](https://youtu.be/Rb2j_fUMUoU)
+
+
+## 👨‍🏫 Project Supervisor
+
+**Name:** Obaidullah Miakhil  
+**Designation:** Lab Engineer  
+**Course:** Data Structures and Algorithms (DSA)  
+
+This project was developed as a **Final Group Project** for the **Data Structures and Algorithms (DSA)** course under the supervision of **Lab Engineer Obaidullah Miakhil**.  
+His guidance, supervision, and valuable feedback contributed significantly to the successful completion of this project.
+
+## 📖 Supervision Note
+> "This project was developed for the Data Structures and Algorithms (DSA) course under the supervision of Lab Engineer Obaidullah Miakhil."
